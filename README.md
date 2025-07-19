@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner">
+</p>
+
+
 # Terminal Zen Garden
 
 Welcome to Terminal Zen Garden — a peaceful, interactive Zen garden for your terminal.  
@@ -16,7 +21,7 @@ Move your rake, place stones, and load different garden templates — all using 
 
 ---
 
-## How to Run the Project (Copy-Paste Tutorial)
+## How to Run
 
 Follow these steps in your terminal:
 
@@ -76,6 +81,9 @@ cd terminal-zengarden/garden
 python main.py
 ```
 
+✅ That’s it!  
+Enjoy your peaceful terminal zen experience!
+
 ---
 
 ## Controls
@@ -130,4 +138,3 @@ This project brings that feeling to your terminal. Whether you want to pause, pl
 ---
 
 Created by Rainier-PS  
-https://github.com/yourusername/terminal-zengarden
