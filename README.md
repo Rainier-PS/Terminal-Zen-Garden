@@ -69,7 +69,7 @@ cd path/to/terminal-zengarden/garden
 #### Option B: Clone via Git (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/terminal-zengarden.git
+git clone https://github.com/Rainier-PS/terminal-zengarden.git
 cd terminal-zengarden/garden
 ```
 
