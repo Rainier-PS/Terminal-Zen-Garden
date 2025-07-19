@@ -1,61 +1,96 @@
 # Terminal Zen Garden
 
-Welcome to Terminal Zen Garden, a peaceful, interactive Zen garden for your terminal.  
-No coding experience needed. Just run, relax, and create.
+Welcome to Terminal Zen Garden — a peaceful, interactive Zen garden for your terminal.  
+No coding experience required. Just run, relax, and create.
 
-![Welcome](http://url/to/img.png)
+![Welcome](image/Devlog%20July%2019%202025_2.png)
 
 ---
 
 ## What is this?
 
-Terminal Zen Garden is a Python program that lets you design and play with a Zen garden using only your keyboard.  
-Move your rake, place stones, and explore different garden templates — all in ASCII art.
+Terminal Zen Garden is a Python-based interactive Zen garden you can design and explore entirely in your terminal.  
+Move your rake, place stones, and load different garden templates — all using ASCII art.
 
-![Zen Garden](http://url/to/img.png)
-
----
-
-## How to Use
-
-1. **Install Python 3.8+**  
-   [Download Python](https://www.python.org/downloads/) if you don’t have it.
-
-2. **Install Required Packages**  
-   Open your terminal and run:
-   ```
-   pip install textual rich
-   ```
-
-3. **Download or Clone the Project**  
-   - Download ZIP from GitHub and unzip  
-   **OR**
-   - Use Git:
-     ```
-     git clone https://github.com/yourusername/terminal-zengarden.git
-     cd terminal-zengarden/garden
-     ```
-
-4. **Run the Garden**
-   ```
-   python main.py
-   ```
+![Zen Garden](image/Pebble%20%26%20Sakura%20Path.png)
 
 ---
 
-## 🎮 Controls
+## How to Run the Project (Copy-Paste Tutorial)
+
+Follow these steps in your terminal:
+
+### 1. Install Python 3.8 or higher
+
+Download and install Python from the official site:  
+https://www.python.org/downloads/
+
+Make sure `python` and `pip` are available in your terminal:
+
+```bash
+python --version
+pip --version
+```
+
+If not, restart your terminal or add Python to PATH during installation.
+
+---
+
+### 2. Install Required Python Packages
+
+Open your terminal and run:
+
+```bash
+pip install textual rich
+```
+
+---
+
+### 3. Download the Project
+
+#### Option A: Download as ZIP
+
+1. Visit the GitHub repo (replace this with your actual URL):  
+   https://github.com/yourusername/terminal-zengarden
+
+2. Click **"Code" > "Download ZIP"**
+
+3. Extract the ZIP, then open the folder in your terminal:
+
+```bash
+cd path/to/terminal-zengarden/garden
+```
+
+#### Option B: Clone via Git (Recommended)
+
+```bash
+git clone https://github.com/yourusername/terminal-zengarden.git
+cd terminal-zengarden/garden
+```
+
+---
+
+### 4. Run the Zen Garden
+
+```bash
+python main.py
+```
+
+---
+
+## Controls
 
 | Key                | Action                                               |
 |--------------------|------------------------------------------------------|
 | ← ↑ ↓ →            | Move your rake                                       |
-| Space              | Place a **Large Stone** (O, @, #)                    |
-| S                  | Place a **Small Pebble** (o)                         |
-| F                  | Place a **Sakura Blossom** (*)                       |
+| Space              | Place a Large Stone (O, @, #)                        |
+| S                  | Place a Small Pebble (o)                             |
+| F                  | Place a Sakura Blossom (*)                           |
 | R                  | Rake sand (~) or water (≈), or smooth it back        |
-| W                  | Add **Still Water** (W)                              |
-| I                  | Plant a **Reed/Iris** (I)                            |
+| W                  | Add Still Water (W)                                  |
+| I                  | Plant a Reed/Iris (I)                                |
 | C                  | Clear a tile (return it to sand)                     |
-| D                  | Toggle **Drag Rake Mode**                            |
+| D                  | Toggle Drag Rake Mode                                |
 | 0-9                | Switch garden templates                              |
 | N / P              | Next / Previous garden template                      |
 | X                  | Random garden template                               |
@@ -70,27 +105,29 @@ Move your rake, place stones, and explore different garden templates — all in 
 
 ## Features
 
-- Multiple garden templates: sand, stone paths, bonsai, temples, bridges, and more
-- Undo/Redo, Save/Load, and Reset options
+- Multiple themed templates: sand, stone paths, bonsai, temples, bridges, and more
+- Interactive garden drawing with keyboard
+- Save/load and undo/redo support
+- Built-in help panel and visual legend
 - ASCII bonsai intro art
-- Help panel and legend for all garden elements
-- Easy to remix and share
+- Beginner-friendly code for remixing
 
 ---
 
 ## Why Try It?
 
-Zen gardens are for relaxation and creativity.  
-This project brings that experience to your terminal. Terminal Zen Garden gives a place to pause, play, and find a little peace.
+Zen gardens are a relaxing blend of art and minimalism.  
+This project brings that feeling to your terminal. Whether you want to pause, play, or just explore some creativity—Terminal Zen Garden is your space.
 
 ---
 
 ## Remix & Share
 
-- Change templates, add new elements, or tweak controls
+- Add your own templates or tile types
 - Share screenshots or fork the project
-- The code is beginner-friendly and well-commented
+- Clean codebase, ideal for beginners
 
 ---
 
-Created by Rainier-PS.  
+Created by Rainier-PS  
+https://github.com/yourusername/terminal-zengarden
