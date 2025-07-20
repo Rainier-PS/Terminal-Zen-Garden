@@ -20,7 +20,9 @@ Move your rake, place stones, and load different garden templates — all using 
 ![Zen Garden](image/Pebble%20%26%20Sakura%20Path.png)
 
 ---
-
+## Why I make this project?
+I created Terminal Zen Garden to introduce more people to the calming practice of Zen gardening. This terminal app offers a similar experience to a physical Zen Garden, but without the need for any tools or materials except for a device.
+---
 ## How to Run
 
 Follow these steps in your terminal:
