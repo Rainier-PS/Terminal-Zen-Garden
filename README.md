@@ -15,7 +15,7 @@ No coding experience required. Just run, relax, and create.
 ## What is this?
 
 Terminal Zen Garden is a Python-based interactive Zen garden you can design and explore entirely in your terminal.  
-Move your rake, place stones, and load different garden templates — all using ASCII art.
+Move your rake, place stones, and load different garden templates, all using ASCII art.
 
 ![Zen Garden](image/Pebble%20%26%20Sakura%20Path.png)
 
