@@ -67,14 +67,14 @@ pip install textual rich
 3. Extract the ZIP, then open the folder in your terminal:
 
 ```bash
-cd path/to/terminal-zengarden/garden
+cd path/to/Terminal-Zen-Garden/garden
 ```
 
 #### Option B: Clone via Git (Recommended)
 
 ```bash
-git clone https://github.com/Rainier-PS/terminal-zengarden.git
-cd terminal-zengarden/garden
+git clone https://github.com/Rainier-PS/Terminal-Zen-Garden.git
+cd Terminal-Zen-Garden/garden
 ```
 
 ---
