@@ -33,6 +33,14 @@ Anyone can use this — follow the steps carefully!
 
 ---
 
+If you’re on Windows and don’t want to install Python, just download the ready-to-run executable here:
+
+➡️ [Download Zen Garden (Windows EXE)](https://github.com/Rainier-PS/Terminal-Zen-Garden/releases/download/v1.0/main.exe)
+
+Then double-click `main.exe` to launch your garden. 🌿
+
+---
+
 ### Step 1: Install Python 3.8 or Higher
 
 1. Download Python from the official site:  
