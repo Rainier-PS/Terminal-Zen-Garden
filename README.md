@@ -35,9 +35,9 @@ Anyone can use this — follow the steps carefully!
 
 If you’re on Windows and don’t want to install Python, just download the ready-to-run executable here:
 
-➡️ [Download Zen Garden (Windows EXE)](https://github.com/Rainier-PS/Terminal-Zen-Garden/releases/download/v1.0/main.exe)
+[Download Zen Garden (Windows EXE)](https://github.com/Rainier-PS/Terminal-Zen-Garden/releases/download/v1.0/main.exe)
 
-Then double-click `main.exe` to launch your garden. 🌿
+Then double-click `main.exe` to launch your garden.
 
 ---
 
@@ -48,7 +48,7 @@ Then double-click `main.exe` to launch your garden. 🌿
 
 2. During installation, **make sure to check the box**:
    ```
-   ✅ Add Python to PATH
+   Add Python to PATH
    ```
 
 3. After installation, open a terminal and verify:
