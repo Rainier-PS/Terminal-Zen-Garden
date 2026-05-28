@@ -5,7 +5,7 @@
 
 # Terminal Zen Garden
 
-Welcome to Terminal Zen Garden — a peaceful, interactive Zen garden for your terminal.  
+Welcome to Terminal Zen Garden, a peaceful, interactive Zen garden for your terminal.  
 No coding experience required. Just run, relax, and create.
 
 ![Welcome](image/Devlog%20July%2019%202025_2.png)
@@ -23,7 +23,7 @@ Move your rake, place stones, and load different garden templates, all using ASC
 
 ## Why I Make This Project
 
-I created Terminal Zen Garden to introduce more people to the calming practice of Zen gardening. This terminal app offers a similar experience to a physical Zen garden, but without the need for any tools or materials — just your device and a keyboard.
+I created Terminal Zen Garden to introduce more people to the calming practice of Zen gardening. This terminal app offers a similar experience to a physical Zen garden, but without the need for any tools or materials. Just your device and a keyboard.
 
 ---
 
@@ -137,7 +137,7 @@ Finally, launch the Zen Garden:
 python main.py
 ```
 
-You’ll see a fullscreen terminal interface — you're now inside the garden!
+You’ll see a fullscreen terminal interface. You're now inside the garden!
 
 ---
 
@@ -180,7 +180,7 @@ You’ll see a fullscreen terminal interface — you're now inside the garden!
 ## Why Try It?
 
 Zen gardens blend calm, focus, and creativity.  
-Terminal Zen Garden brings that same joy into your digital workspace — a quiet space to reset, reflect, and express.
+Terminal Zen Garden brings that same joy into your digital workspace, a quiet space to reset, reflect, and express.
 
 ---
 
